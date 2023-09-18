@@ -1,0 +1,101 @@
+[
+    {
+        "id": 2,
+        "name": "Alpha Centauri A",
+        "type": "Estrella enana amarilla, Secuencia Principal (tipo G2V)",
+        "distancia": "4.37 años luz",
+        "mass": "1.1 masas solares",
+        "radius": "1.22 radios solares",
+        "temperature": "5,790 K",
+        "luminosity": "1.52 luminosidades solares",
+        "age": "4.85 mil millones de años"
+    },
+    {
+        "id": 3,
+        "name": "Proxima Centauri",
+        "type": "Enana roja, Secuencia Principal (tipo M6Ve)",
+        "distancia": "4.24 años luz",
+        "mass": "0.123 masas solares",
+        "radius": "0.15 radios solares",
+        "temperature": "3,042 K",
+        "luminosity": "0.0015 luminosidades solares",
+        "age": "c. 4 mil millones de años"
+    },
+    {
+        "id": 4,
+        "name": "Betelgeuse",
+        "type": "Supergigante roja, Secuencia Principal (tipo M1-2Ia-Iab)",
+        "distancia": "642.5 años luz",
+        "mass": "c. 20 masas solares",
+        "radius": "c. 887 radios solares",
+        "temperature": "3,600 K",
+        "luminosity": "c. 100,000 luminosidades solares",
+        "age": "c. 8-8.5 millones de años"
+    },
+    {
+        "id": 5,
+        "name": "Vega",
+        "type": "Estrella de la secuencia principal (tipo A0V)",
+        "distancia": "25.04 años luz",
+        "mass": "2.135 masas solares",
+        "radius": "2.362 radios solares",
+        "temperature": "9,576 K",
+        "luminosity": "40.12 luminosidades solares",
+        "age": "c. 455 millones de años"
+    },
+    {
+        "id": 6,
+        "name": "Rigel",
+        "type": "Supergigante azul, Secuencia Principal (tipo B8Ia)",
+        "distancia": "863 años luz",
+        "mass": "c. 23 masas solares",
+        "radius": "c. 78 radios solares",
+        "temperature": "11,000 K",
+        "luminosity": "c. 120,000 luminosidades solares",
+        "age": "c. 8-9 millones de años"
+    },
+    {
+        "id": 7,
+        "name": "Aldebarán",
+        "type": "Gigante roja, Secuencia Principal (tipo K5III)",
+        "distancia": "65.23 años luz",
+        "ass": "1.1 masas solares",
+        "radius": "44.13 radios solares",
+        "temperature": "3,490 K",
+        "luminosity": "439 luminosidades solares",
+        "age": "c. 6.7 mil millones de años"
+    },
+    {
+        "id": 8,
+        "name": "Antares",
+        "type": "Supergigante roja, Secuencia Principal (tipo M1Iab-Ib)",
+        "distancia": "604 años luz",
+        "mass": "c. 12 masas solares",
+        "radius": "c. 680 radios solares",
+        "temperature": "3,490 K",
+        "luminosity": "c. 65,000 luminosidades solares",
+        "age": "c. 12 millones de años"
+    },
+    {
+        "id": 9,
+        "name": "Polaris",
+        "type": "Estrella de la secuencia principal (tipo F7Ib)",
+        "distancia": "431 años luz",
+        "mass": "6.7 masas solares",
+        "radius": "36.2 radios solares",
+        "temperature": "6,000 K",
+        "luminosity": "1,520 luminosidades solares",
+        "age": "c. 70-150 millones de años"
+    },
+    {
+        "id": 10,
+        "name": "Deneb",
+        "type": "Supergigante azul, Secuencia Principal (tipo A2Ia)",
+        "distancia": "c. 1,425 años luz",
+        "mass": "c. 19 masas solares",
+        "radius": "c. 200 radios solares",
+        "temperature": "8,525 K",
+        "luminosity": "c. 196,000 luminosidades solares",
+        "age": "c. 6-20 millones de años"
+    }
+]
